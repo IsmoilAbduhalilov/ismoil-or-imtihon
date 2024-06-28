@@ -1,0 +1,31 @@
+.link{
+    display: flex;
+    justify-content: space-around;
+.as1{
+    font-family: "Red Rose", serif;
+    font-weight: 700;
+    font-size: 28px;
+    color: #FFFFFF;
+    padding-bottom: 52px;
+}
+.as8{
+font-family: Inter;
+font-weight: 400;
+font-size: 20px;
+color: #E1EFFF;
+padding-bottom: 39px;
+}
+.as81{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 20px;
+    color: #E1EFFF;
+}
+}
+@media (max-width:990px) {
+    .link{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    }
+}
